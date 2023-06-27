@@ -8,7 +8,6 @@ export default function App() {
   return (
     
     <BrowserRouter>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero labore expedita provident corrupti, quod, ex consequuntur fuga praesentium minima est inventore nobis! Libero repellat incidunt laboriosam sequi temporibus, dolor optio.</p>
     <Routes>
       
       <Route exact path="/Login" element={<Login />} />

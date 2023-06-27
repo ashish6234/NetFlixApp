@@ -28,4 +28,3 @@ export default function signup() {
 }
 
 const Container = styled.div``;
-
